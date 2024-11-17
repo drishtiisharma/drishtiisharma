@@ -22,4 +22,5 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 In addition to programming, I have a deep passion for learning new languages(yes,except the computer based (◕‿◕)). I believe in continuous growth and am always looking for new challenges.
 
 **🛠️ Projects:**
-While I haven't yet built any projects, I’m excited to apply what I’m learning and create meaningful ones soon!
+
+Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
