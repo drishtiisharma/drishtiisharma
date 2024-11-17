@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Profile
-I’m **Drishti**, a passionate and driven learner always eager to expand my knowledge.
+I’m **Drishti**,a sophomore pursuing BTech in AI&ML and am a passionate and driven learner always eager to expand my knowledge.
 
 ![hehe](https://i.postimg.cc/qMC4CLTk/jumping-gatito.gif)
 ## **💻 What I’m Currently Exploring**
