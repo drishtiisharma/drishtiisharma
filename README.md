@@ -3,7 +3,7 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 
 ## 🐍 Contribution Snake
 
-![snake animation](https://github.com/<drishtiisharma>/<drishtiisharma>/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/drishtiisharma/drishtiisharma/blob/output/github-contribution-grid-snake.svg)
 
 
 
