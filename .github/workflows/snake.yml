@@ -19,10 +19,10 @@ jobs:
           github_user_name: drishtiisharma
           outputs: dist/snake.svg
 
-      - name: Move Snake Animation to Output Folder
+      - name: Move Snake Animation to output Folder
         run: |
-          mkdir -p output
-          mv dist/snake.svg output/github-contribution-grid-snake.svg
+          mkdir -p output  # Creates an output folder if it doesn't exist
+          mv dist/snake.svg output/github-contribution-grid-snake.svg  # Moves the generated SVG to output/
 
       - name: Commit and push Snake animation
         run: |
