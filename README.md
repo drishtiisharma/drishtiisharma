@@ -23,3 +23,5 @@ In addition to programming, I have a deep passion for learning new languages(yes
 
 **🛠️ Projects:**
 Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
+
+[![](https://visitcount.itsvg.in/api?id=drishtiisharma&label=&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
