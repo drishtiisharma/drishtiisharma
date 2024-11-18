@@ -1,12 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate and driven learner always eager to expand my knowledge.
 
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/drishtiisharma/drishtiisharma/blob/output/github-contribution-grid-snake.svg)
-
-
-
 ![image](https://i.postimg.cc/qMC4CLTk/jumping-gatito.gif)
 ## **💻 What I’m Currently Exploring**
 - **Programming**: Currently mastering _Java_ with the goal of becoming a _full-stack developer_.
