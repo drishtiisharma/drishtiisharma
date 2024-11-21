@@ -29,7 +29,7 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 **🌍 Hobbies:**
 In addition to programming, I have a deep passion for learning new languages( yes, except the computer based (◕‿◕) ).
 
-![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma)
+![](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp)
 
 **🛠️ Projects:**
 Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
