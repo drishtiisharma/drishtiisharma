@@ -31,6 +31,6 @@ Well I haven't yet built any projects yet but, I’m excited to apply what I’m
 ![LeetCode Stats](https://leetcard.jacoblin.cool/drishtiisharma?theme=dark&font=Ubuntu&ext=heatmap)
 
 ## **🏆 My Github Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=drishtiisharma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=drishtiisharma&theme=darkhub)
 
 [![](https://visitcount.itsvg.in/api?id=drishtiisharma&label=&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
