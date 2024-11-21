@@ -24,7 +24,8 @@ In addition to programming, I have a deep passion for learning new languages(yes
 **🛠️ Projects:**
 Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
 
-## **My Github Stats:**
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=drishtiisharma&theme=dark&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/drishtiisharma?theme=dark&font=Ubuntu&ext=heatmap)
 
 [![](https://visitcount.itsvg.in/api?id=drishtiisharma&label=&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
