@@ -17,13 +17,6 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 
 ![image](https://i.postimg.cc/m2G1khv6/200w.gif)
 
-  
-**🌍 Hobbies:**
-In addition to programming, I have a deep passion for learning new languages(yes,except the computer based (◕‿◕)). I believe in continuous growth and am always looking for new challenges.
-
-**🛠️ Projects:**
-Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
-
 ## **🐙 My Github**
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=drishtiisharma&theme=dark&hide_border=true)
 
@@ -32,5 +25,15 @@ Well I haven't yet built any projects yet but, I’m excited to apply what I’m
 
 ## **🏆 My Github Trophies**
 ![trophy](https://github-profile-trophy.vercel.app/?username=drishtiisharma&theme=darkhub)
+
+**🌍 Hobbies:**
+In addition to programming, I have a deep passion for learning new languages( yes, except the computer based (◕‿◕) ).
+
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma)
+
+**🛠️ Projects:**
+Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
+
+
 
 [![](https://visitcount.itsvg.in/api?id=drishtiisharma&label=&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
