@@ -17,9 +17,6 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 
 ![image](https://i.postimg.cc/m2G1khv6/200w.gif)
 
-## **🐙 My Github**
-![image](https://github-readme-streak-stats.herokuapp.com/?user=drishtiisharma&theme=dark&hide_border=true)
-
 ## **🧩 My Leetcode**
 ![LeetCode Stats](https://leetcard.jacoblin.cool/drishtiisharma?theme=dark&font=Ubuntu&ext=heatmap)
 
