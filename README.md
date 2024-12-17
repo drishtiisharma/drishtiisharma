@@ -2,10 +2,13 @@
 I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate and driven learner always eager to expand my knowledge.
 
 ![image](https://i.postimg.cc/qMC4CLTk/jumping-gatito.gif)
-## **💻 What I’m Currently Exploring**
-- **Programming**: Currently mastering _Java_ with the goal of becoming a _full-stack developer_.
-- **AI & ML:** Deeply interested in Artificial Intelligence and Machine Learning, and _committed to exploring these fields_.
-- **Self-Learning:** A _firm believer in independent learning_, with a strong passion for note-taking and self-paced growth.
+## **💻 What I’m Currently Exploring**  
+- **Programming**: Mastering _Java_ for _full-stack development_.  
+- **AI & ML**: Diving into _Artificial Intelligence_ and _Machine Learning_.  
+- **Databases**: Learning _MySQL_ for database management.  
+- **Data Science**: Using _Pandas_ for data analysis.  
+- **Self-Learning**: Passionate about _independent learning_ and note-taking.
+
 
 ![image](https://i.postimg.cc/Njq9yFZz/nerd-spongebob.gif)
 
