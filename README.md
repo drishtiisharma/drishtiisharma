@@ -1,24 +1,8 @@
 # 👋 Welcome to My GitHub Profile
 I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate and driven learner always eager to expand my knowledge.
 
-![image](https://i.postimg.cc/qMC4CLTk/jumping-gatito.gif)
-## **💻 What I’m Currently Exploring**  
-- **Programming**: Mastering _Java_ for _full-stack development_.  
-- **AI & ML**: Diving into _Artificial Intelligence_ and _Machine Learning_.  
-- **Databases**: Learning _MySQL_ for database management.  
-- **Data Science**: Using _Pandas_ for data analysis.  
-- **Self-Learning**: Passionate about _independent learning_ and note-taking.
-
-
-![image](https://i.postimg.cc/Njq9yFZz/nerd-spongebob.gif)
-
-
-## **🤝 What I Bring to the Table**
-- **Teamwork:** A _collaborative_ and _adaptable_ team member, always ready to contribute.
-- **Decision Making:**  I make _confident decisions_, especially when facing _uncertainty_.
-- **Problem-Solving:** Focused on breaking down problems and finding practical solutions.
-
-![image](https://i.postimg.cc/m2G1khv6/200w.gif)
+- <b>Currently Exploring:</b> Web Development(Frontend) + MySQL, and self-learning.
+- <b>What I Bring To The Table:</b> Teamwork, confident decisions, problem-solving.
 
 ## **🧩 My Leetcode**
 
