@@ -5,10 +5,10 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 - <b>What I Bring To The Table:</b> Teamwork, confident decisions, problem-solving.
 
 ## **🧩 My Leetcode**
-
-  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="150" width="150" /></a>
-  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="150" width="150" /></a>
-  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="150" width="150" /></a>
+  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" height="130" width="130" /></a>
+  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="130" width="130" /></a>
+  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="130" width="130" /></a>
+  <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="130" width="130" /></a>
   
 ![LeetCode Stats](https://leetcard.jacoblin.cool/drishtiisharma?theme=dark&font=Ubuntu&ext=heatmap)
 
