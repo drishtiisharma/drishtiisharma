@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate and driven learner always eager to expand my knowledge.
 
-- <b>Currently Exploring:</b> Web Development(Frontend) + MySQL, and self-learning.
+- <b>Currently Exploring:</b> Web Development(Frontend) + MySQL
 - <b>What I Bring To The Table:</b> Teamwork, confident decisions, problem-solving.
 
 ## **🧩 My Leetcode**
