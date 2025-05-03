@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate and driven learner always eager to expand my knowledge.
 
-- <b>Currently Exploring:</b> Web Development(Frontend) + MySQL
+- <b>Currently polishing my Web Development skills, mastering DSA, Python, AI/ML, and Flask</b>
 - <b>What I Bring To The Table:</b> Teamwork, confident decisions, problem-solving.
 
 ## **🧩 My Leetcode**
@@ -16,13 +16,10 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 ![trophy](https://github-profile-trophy.vercel.app/?username=drishtiisharma&theme=darkhub)
 
 **🌍 Hobbies:**
-In addition to programming, I have a deep passion for learning new languages( yes, except the computer based (◕‿◕) ).
+In addition to programming, I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
 
-![](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp)
+![count](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp)
 
 **🛠️ Projects:**
-Well I haven't yet built any projects yet but, I’m excited to apply what I’m learning and create meaningful ones soon!
+I’m building projects to refine my skills and working on meaningful ones as I progress along the way!
 
-
-
-[![](https://visitcount.itsvg.in/api?id=drishtiisharma&label=&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
