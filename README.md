@@ -16,7 +16,7 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 ![trophy](https://github-profile-trophy.vercel.app/?username=drishtiisharma&theme=darkhub)
 
 **🌍 Hobbies:**
-In addition to programming, I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
+I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
 
 ![count](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp)
 
