@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile
 I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate and driven learner always eager to expand my knowledge.
 
-- <b>Currently polishing my Web Development skills, mastering DSA, Python, AI/ML, and Flask</b>
+- <b>Currently polishing my Web Development skills, mastering DSA, Python, AI/ML, and Flask.</b>
 - <b>What I Bring To The Table:</b> Teamwork, confident decisions, problem-solving.
 
 ## **🧩 My Leetcode**
