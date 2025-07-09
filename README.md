@@ -15,6 +15,9 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 ## **🏆 My Github Trophies**
 ![trophy](https://github-profile-trophy.vercel.app/?username=drishtiisharma&theme=darkhub)
 
+## **🏆 My Most Used Languages**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtiisharma&layout=compact&theme=dark)
+
 **🌍 Hobbies:**
 I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
 
