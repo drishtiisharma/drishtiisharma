@@ -17,6 +17,9 @@ I’m **Drishti**, a sophomore pursuing **BTech in AI&ML** and am a passionate a
 ## **🏆 My Most Used Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtiisharma&layout=compact&theme=dark)
 
+## **🏆 My Holopin Badges**
+[![An image of @drishtiisharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drishtiisharma)](https://holopin.io/@drishtiisharma)
+
 **🌍 Hobbies:**
 I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
 
