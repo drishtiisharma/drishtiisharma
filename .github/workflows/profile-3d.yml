@@ -1,8 +1,8 @@
-name: GitHub-Profile-3D-Contrib
+name: Profile Metrics & 3D Graph
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 18 * * *" 
   workflow_dispatch:
 
 permissions:
@@ -11,19 +11,72 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    name: Generate Profile Assets
+
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: "drishtiisharma"
-          
-      - name: Commit & Push
+
+      - name: AniList - Anime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.anime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          plugin_anilist: yes
+          plugin_anilist_user: simplysho
+          token_anilist: ${{ secrets.ANILIST_TOKEN }}
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 3
+          plugin_anilist_shuffle: yes
+
+      - name: AniList - Manga
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.manga.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          plugin_anilist: yes
+          plugin_anilist_user: simplysho
+          token_anilist: ${{ secrets.ANILIST_TOKEN }}
+          plugin_anilist_medias: manga
+          plugin_anilist_sections: favorites, reading
+          plugin_anilist_limit: 1
+          plugin_anilist_shuffle: yes
+
+      - name: AniList - Characters
+        uses: lowlighter/metrics@latest
+        with:
+          filename: anilist.characters.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          plugin_anilist: yes
+          plugin_anilist_user: simplysho
+          token_anilist: ${{ secrets.ANILIST_TOKEN }}
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 5
+
+
+      - name: Commit & Push Changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🔄 Updated 3D graph & AniList cards"
             git push
           fi
