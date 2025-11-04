@@ -89,13 +89,10 @@ I have a deep passion for learning new languages( yes, in addition to the comput
 <div align ="center">
     <img src="https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp" alt="Alien Monster" width="500" height="500" style="vertical-align: middle; margin-left: 10px;" />
 
-### 🎬 Currently Watching & Favorites (Anime)
 ![Anime](https://raw.githubusercontent.com/drishtiisharma/drishtiisharma/main/anilist.anime.svg)
 
-### 📚 Currently Reading & Favorites (Manga)
 ![Manga](https://raw.githubusercontent.com/drishtiisharma/drishtiisharma/main/anilist.manga.svg)
 
-### 👤 Favorite Characters
 ![Characters](https://raw.githubusercontent.com/drishtiisharma/drishtiisharma/main/anilist.characters.svg)
 
 
