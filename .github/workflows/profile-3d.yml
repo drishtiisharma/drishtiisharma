@@ -2,7 +2,7 @@ name: AniList Metrics
 
 on:
   schedule:
-    - cron: "0 18 * * *"  
+    - cron: "0 18 * * *" # Runs daily at 11:30 PM IST
   workflow_dispatch:
 
 permissions:
@@ -25,7 +25,7 @@ jobs:
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: drishtiisharma
-          plugin_anilist_medias: anime, manga, characters 
+          plugin_anilist_medias: anime, manga, characters
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 5
@@ -43,5 +43,3 @@ jobs:
             git pull --rebase origin main
             git push origin main
           fi
-
-
