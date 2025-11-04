@@ -35,11 +35,11 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: simplysho
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites, watching
+          plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
-          plugin_anilist_shuffle: yes
+          plugin_anilist_shuffle: no
 
-      # 🟩 Manga Card
+
       - name: Generate Manga Card
         uses: lowlighter/metrics@latest
         with:
@@ -50,10 +50,10 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: simplysho
           plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites, reading
-          plugin_anilist_limit: 1
+          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 3
 
-      # 🟥 Characters Card
+
       - name: Generate Characters Card
         uses: lowlighter/metrics@latest
         with:
@@ -65,6 +65,7 @@ jobs:
           plugin_anilist_user: simplysho
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 5
+          plugin_anilist_shuffle: no
 
       - name: Commit & Push
         run: |
