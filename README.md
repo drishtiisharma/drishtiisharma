@@ -86,23 +86,27 @@
 
 ## **My Hobbies**
 I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
+<div align ="center">
+    <img src="https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp" alt="Alien Monster" width="500" height="500" style="vertical-align: middle; margin-left: 10px;" />
 
-![count](https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp)
+</div>
 
 ## **My Holopin Badges**
 [![An image of @drishtiisharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drishtiisharma)](https://holopin.io/@drishtiisharma)
 
 
 ## **My Leetcode Badges**
+<div align="center">
   <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" height="130" width="130" /></a>
   <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="130" width="130" /></a>
   <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="130" width="130" /></a>
   <a href="https://leetcode.com/drishtiisharma/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="130" width="130" /></a>
-
+</div>
   </div>
   </details>
 </div>
 </div>
+
 
 
 
