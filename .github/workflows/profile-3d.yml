@@ -24,37 +24,7 @@ jobs:
           ANI_USER: simplysho
           TZ: Asia/Calcutta
 
-      # 🟦 Anime Card
-      - name: Generate Anime Card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Calcutta
-          filename: metrics.anilist.anime.svg
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_user: simplysho
-          plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites
-          plugin_anilist_limit: 3
-          plugin_anilist_shuffle: no
-
-
-      - name: Generate Manga Card
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Calcutta
-          filename: metrics.anilist.manga.svg
-          base: ""
-          plugin_anilist: yes
-          plugin_anilist_user: simplysho
-          plugin_anilist_medias: manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_limit: 3
-
-
-      - name: Generate Characters Card
+      - name: Generate Anilist Metrics Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -62,10 +32,13 @@ jobs:
           filename: metrics.anilist.characters.svg
           base: ""
           plugin_anilist: yes
-          plugin_anilist_user: simplysho
-          plugin_anilist_sections: characters
-          plugin_anilist_limit_characters: 5
+          plugin_anilist_user: drishtiisharma
+          plugin_anilist_medias: anime, manga, characters
+          plugin_anilist_sections: favorites , reading
+          plugin_anilist_limit: 3
           plugin_anilist_shuffle: no
+
+
 
       - name: Commit & Push
         run: |
