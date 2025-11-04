@@ -2,7 +2,7 @@ name: AniList Metrics
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Runs daily at 11:30 PM IST
+    - cron: "0 18 * * *"   # Runs daily at 11:30 PM IST
   workflow_dispatch:
 
 permissions:
@@ -19,12 +19,17 @@ jobs:
       - name: Generate AniList Metrics Card
         uses: lowlighter/metrics@latest
         with:
+          # Personal access token stored as secret
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Calcutta
+
+          # Output file
           filename: metrics.anilist.svg
           base: ""
+
+
           plugin_anilist: yes
-          plugin_anilist_user: drishtiisharma
+          plugin_anilist_user: simplysho
           plugin_anilist_medias: anime, manga, characters
           plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
