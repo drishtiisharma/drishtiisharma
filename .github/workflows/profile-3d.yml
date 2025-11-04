@@ -2,7 +2,7 @@ name: AniList Metrics
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # Runs daily at 11:30 PM IST
+    - cron: "0 18 * * *"  
   workflow_dispatch:
 
 permissions:
@@ -16,29 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Set global settings as environment variables
-      - name: Setup
-        run: echo "Setup complete"
-        env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          ANI_USER: simplysho
-          TZ: Asia/Calcutta
-
-      - name: Generate Anilist Metrics Card
+      - name: Generate AniList Metrics Card
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Calcutta
-          filename: metrics.anilist.characters.svg
+          filename: metrics.anilist.svg
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: drishtiisharma
-          plugin_anilist_medias: anime, manga, characters
-          plugin_anilist_sections: favorites , reading
+          plugin_anilist_medias: anime, manga , characters 
+          plugin_anilist_sections: favorites
           plugin_anilist_limit: 3
+          plugin_anilist_limit_characters: 5
           plugin_anilist_shuffle: no
-
-
 
       - name: Commit & Push
         run: |
@@ -48,7 +39,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🎬 Updated AniList cards"
+            git commit -m "🎬 Updated AniList metrics"
             git pull --rebase origin main
             git push origin main
           fi
+
+
