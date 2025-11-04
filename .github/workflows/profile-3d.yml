@@ -31,7 +31,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: simplysho
           plugin_anilist_medias: anime, manga, characters
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 5
           plugin_anilist_shuffle: no
