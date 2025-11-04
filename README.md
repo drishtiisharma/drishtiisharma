@@ -89,11 +89,13 @@ I have a deep passion for learning new languages( yes, in addition to the comput
 <div align ="center">
     <img src="https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp" alt="Alien Monster" width="500" height="500" style="vertical-align: middle; margin-left: 10px;" />
 
-![Anime](https://raw.githubusercontent.com/drishtiisharma/drishtiisharma/main/anilist.anime.svg)
+### 🎬 My AniList Stats
+<p align="center">
+  <img src="./metrics.anilist.anime.svg" alt="Anime Stats" />
+  <img src="./metrics.anilist.manga.svg" alt="Manga Stats" />
+  <img src="./metrics.anilist.characters.svg" alt="Characters Stats" />
+</p>
 
-![Manga](https://raw.githubusercontent.com/drishtiisharma/drishtiisharma/main/anilist.manga.svg)
-
-![Characters](https://raw.githubusercontent.com/drishtiisharma/drishtiisharma/main/anilist.characters.svg)
 
 
 </div>
