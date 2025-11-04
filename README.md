@@ -88,16 +88,14 @@
 I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
 <div align ="center">
     <img src="https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp" alt="Alien Monster" width="500" height="500" style="vertical-align: middle; margin-left: 10px;" />
+</div>
+    
+& When I’m not coding, I’m probably lost in some anime universe (￣︶￣*)
 
-### 🎬 My AniList Stats
-<p align="center">
-  <img src="./metrics.anilist.anime.svg" alt="Anime Stats" />
-  <img src="./metrics.anilist.manga.svg" alt="Manga Stats" />
-  <img src="./metrics.anilist.characters.svg" alt="Characters Stats" />
-</p>
-
-
-
+<div align="center">
+  <a href="https://anilist.co/user/simplysho/">
+    <img src="https://github.com/drishtiisharma/drishtiisharma/blob/main/metrics.anilist.svg" alt="AniList Stats">
+  </a>
 </div>
 
 ## **My Holopin Badges**
