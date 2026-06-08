@@ -7,9 +7,9 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="80" />
 </p>
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC34CFF&size=18&width=600&lines=3rd-year+B.Tech+student+specializing+in+Artificial+Intelligence+and+Machine+Learning" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC34CFF&size=18&width=600&lines=Learning+AI%2C+Web+Dev%2C+and+Everything+That+Excites+Me..." />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC34CFF&size=18&width=700&lines=AI+Engineer+%7C+Python%2C+FastAPI%2C+LLMs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC34CFF&size=18&width=700&lines=Building+Projects%2C+Solving+Problems%2C+and+Learning+Everything+that+Excites+Me..." />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Alien Monster" width="100%" />
