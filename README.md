@@ -1,132 +1,52 @@
 <img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" alt="Alien Monster" width="100%" style="vertical-align: middle; margin-left: 10px;" />
-
-<!--INTRO-->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="80" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=91F741&size=35&width=470&lines=Hi%2C+I'm+Drishti+Sharma" alt="Typing SVG" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="80" />
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC34CFF&size=18&width=700&lines=AI+Engineer+%7C+Python%2C+FastAPI%2C+LLMs" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFC34CFF&size=18&width=700&lines=Building+Projects%2C+Solving+Problems%2C+and+Learning+Everything+that+Excites+Me..." />
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Alien Monster" width="100%" />
-
-<!--SOCIALS-->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" width="80" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4C80F7FF&size=35&width=150&lines=Socials" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Inbox%20Tray.webp" width="80" />
-</p>
-
 <div align="center">
-  <a href="https://linkedin.com/in/drishti-sharma-25a09a378">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:drishti.1106@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
-<!--TECH STACK-->
-<div align="center">
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" width="80" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75129FF&size=35&width=220&lines=Tech+Stack" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" width="80" />
-</p>
+## **Aspiring AI Engineer · Building with LLMs, AI Agents & Intelligent Systems**
 
-<div align="center">
-  <details>
-    <summary>Click here to view my Tech Stack!</summary>
-
-  <div align="left">
-    
-    
-#### Programming Languages  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-#### Web Development  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-#### AI / ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Deployment  
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
-#### Tools  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-  ### Most Used Languages  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishtiisharma&layout=compact&theme=transparent&hide_border=true)
-
-  </div>
-  </details>
-</div>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" />
-
-<!--KNOW MORE ABOUT ME-->
-<div align="center">
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="80" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7AAC4FF&size=35&width=385&lines=Know+More+About+Me" />
-    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="80" />
-</p>
-
-<details>
-    <summary>Click here to know more about me!</summary>
-
-<div align="left">
-
-## **My Hobbies**
-I have a deep passion for learning new languages( yes, in addition to the computer based (◕‿◕) ).
-
-<div align="center">
-    <img src="https://duolingo-stats-card.vercel.app/api?username=drishtiisharma&theme=onedark&sort=xp" width="500" />
-</div>
-    
-& When I’m not coding, I’m probably lost in some anime universe (￣︶￣*)
-
-<div align="center">
-  <a href="https://anilist.co/user/simplysho/">
-    <img src="https://github.com/drishtiisharma/drishtiisharma/blob/main/metrics.anilist.svg">
-  </a>
-</div>
-
-## **My Holopin Badges**
-[![An image of @drishtiisharma's Holopin badges](https://holopin.me/drishtiisharma)](https://holopin.io/@drishtiisharma)
-
-## **My Leetcode Badges**
-<div align="center">
-  <a href="https://leetcode.com/drishtiisharma/"><img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" height="130" /></a>
-  <a href="https://leetcode.com/drishtiisharma/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" height="130" /></a>
-  <a href="https://leetcode.com/drishtiisharma/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" height="130" /></a>
-  <a href="https://leetcode.com/drishtiisharma/"><img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="130" /></a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishtiisharmaa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.1106@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drishtiisharma)
 
 </div>
-</details>
+
+## About
+
+I'm **Drishti**, a Computer Science undergraduate who enjoys building things, exploring new technologies, and understanding how software works under the hood.
+
+I have a growing interest in AI and software engineering, and I like learning by getting hands-on while experimenting with ideas, working on projects, breaking things, and figuring out how to make them better.
+
+```yaml
+Currently exploring  ->  AI, RAG, and backend development
+Working with        ->  Python, FastAPI, APIs, and databases
+Learning by         ->  Building, experimenting, and improving
+```
+
+## Core Stack
+
+| Agentic AI & GenAI | Machine Learning | Backend |
+|---|---|---|
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+| ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square) | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+
+| Data & Databases | Computer Vision & Data | Tools & Platforms |
+|---|---|---|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A) |
+
+## Areas I Work With
+
+| Area | Technologies & Interests |
+|---|---|
+| **Generative AI & RAG** | LLM APIs · LangChain · Embeddings · Vector search · Document processing · Prompt design |
+| **Backend Engineering** | Python · FastAPI · Flask · REST APIs · AsyncIO · Caching · Rate limiting |
+| **Machine Learning** | Scikit-learn · TensorFlow · Keras · NumPy · Pandas · Matplotlib |
+| **Computer Vision** | OpenCV · Image preprocessing · Augmentation · Image classification |
+| **Databases & Data** | PostgreSQL · MySQL · SQLite · ChromaDB · SQL · Semantic search |
+| **Engineering Foundations** | OOP · DSA · DBMS · Operating systems · Docker · Git · GitHub |
+
 </div>
+
+
