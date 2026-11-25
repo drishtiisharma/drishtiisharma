@@ -12,14 +12,7 @@
   />
 </p>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishtiisharmaa)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.1106@gmail.com)
-
-</div>
-
-## About
+## About Me
 
 I'm **Drishti**, a Computer Science undergraduate who enjoys building things, exploring new technologies, and understanding how software works under the hood.
 
@@ -63,4 +56,10 @@ Learning by         ->  Building, experimenting, and improving
 
 </div>
 
+## Connect With Me
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishtiisharmaa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.1106@gmail.com)
+
+</div>
