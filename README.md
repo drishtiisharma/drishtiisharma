@@ -16,7 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishtiisharmaa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.1106@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drishtiisharma)
 
 </div>
 
@@ -33,6 +32,7 @@ Learning by         ->  Building, experimenting, and improving
 ```
 
 ## Core Stack
+<div align="center">
 
 | Agentic AI & GenAI | Machine Learning | Backend |
 |---|---|---|
@@ -47,8 +47,11 @@ Learning by         ->  Building, experimenting, and improving
 | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0A0A0A) |
 
-## Areas I Work With
+</div>
 
+## Areas I Work With
+<div align="center">
+  
 | Area | Technologies & Interests |
 |---|---|
 | **Generative AI & RAG** | LLM APIs · LangChain · Embeddings · Vector search · Document processing · Prompt design |
