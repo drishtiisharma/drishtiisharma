@@ -1,7 +1,18 @@
-<img src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif" alt="Alien Monster" width="100%" style="vertical-align: middle; margin-left: 10px;" />
 <div align="center">
 
 ## **Aspiring AI Engineer · Building with LLMs, AI Agents & Intelligent Systems**
+
+</div>
+
+<p align="center">
+  <img
+    src="https://i.pinimg.com/originals/0a/7b/e7/0a7be7b9f24ce4dd9f6243476d03cf98.gif"
+    alt="Alien Monster"
+    width="90%"
+  />
+</p>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/drishtiisharmaa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drishti.1106@gmail.com)
